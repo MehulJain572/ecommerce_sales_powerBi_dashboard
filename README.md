@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyses sales, profit and demand for an e-commerce company using ~500 orders from 2018. It tracks four headline KPIs and breaks performance down by state, product category, sub-category, customer, payment mode and month.
 
-![E-Commerce Sales Dashboard](photos/dashboard.png)
+![E-Commerce Sales Dashboard](photos/dashboard.jpeg)
 
 ## Business Questions Answered
 
